@@ -1,0 +1,13 @@
+﻿## Ignore Visual Studio temporary files, build results, etc.
+bin/
+obj/
+packages/
+.vs/
+*.user
+*.suo
+
+## Ignore Rider IDE
+.idea/
+
+## Ignore Web build output
+*.publish/
